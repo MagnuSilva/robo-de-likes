@@ -1,6 +1,6 @@
 # Robo de Likes 🤖❤️
 
-Uma automação simples e eficiente em Python para realizar cliques automáticos em lives (TikTok, Instagram, etc.). Este projeto foi criado para facilitar a interação em transmissões ao vivo, simulando cliques no botão de "curtir".
+Uma automação simples e eficiente em Python para realizar cliques automáticos em lives (TikTok, Instagram, etc.). Este projeto foi criado para facilitar a interação em transmissões ao vivo, simulando cliques no botão de "curtir" ou "amei".
 
 ## 🚀 Funcionalidades
 
@@ -48,4 +48,6 @@ Você terá 5 segundos para alternar para a janela da live antes dos cliques com
 Este projeto tem fins educacionais. O uso de automações pode violar os Termos de Serviço de algumas plataformas. Use com responsabilidade e moderação.
 
 ---
-Projeto desenvolvido para movimentar o portfólio no GitHub! ⭐
+Projeto desenvolvido para melhorar o GitHub! ⭐
+
+Se curtiu da aquela força 💪
